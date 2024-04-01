@@ -3,7 +3,7 @@ export default function Notify() {
     <div className="isolate mx-4 flex items-center justify-center gap-x-6 overflow-hidden rounded-lg bg-blue-100 p-2 py-2.5 sm:mx-auto sm:max-w-2xl sm:px-3.5">
       <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
         <p className="mx-auto text-sm leading-6 text-gray-900">
-          <strong className="font-semibold">ENVISAGE 23</strong>
+          <strong className="font-semibold">ENVISAGE 24</strong>
           <svg
             viewBox="0 0 2 2"
             className="mx-2 inline h-0.5 w-0.5 fill-current"

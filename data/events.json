@@ -1,14 +1,5 @@
 [
   {
-    "id": "showtime",
-    "title": "Techno Showtime",
-    "description": "A Short Film Festival",
-    "date": "0000-00-00",
-    "time": "00:00",
-    "category": "",
-    "image": "/events/showtime.png"
-  },
-  {
     "id": "mockipl",
     "title": "Mock IPL Auction",
     "description": "Virtual IPL Auction",
@@ -16,24 +7,6 @@
     "time": "00:00",
     "category": "",
     "image": "/events/mockipl.png"
-  },
-  {
-    "id": "onboard",
-    "title": "On-Board",
-    "description": "UNO Game",
-    "date": "0000-00-00",
-    "time": "00:00",
-    "category": "",
-    "image": "/events/onboard.png"
-  },
-  {
-    "id": "prototype",
-    "title": "Proto Type Design",
-    "description": "Functional Proto Type Building",
-    "date": "0000-00-00",
-    "time": "00:00",
-    "category": "",
-    "image": "/events/prototype.png"
   },
   {
     "id": "paneldiscussion",
@@ -81,13 +54,13 @@
     "image": "/events/casestudy.png"
   },
   {
-    "id": "brainitout",
-    "title": "Brain It Out",
+    "id": "quizbizz",
+    "title": "Quiz Bizz",
     "description": "Business Quiz",
     "date": "0000-00-00",
     "time": "00:00",
     "category": "",
-    "image": "/events/brainitout.png"
+    "image": "/events/quizbizz.png"
   },
   {
     "id": "stockify",
@@ -99,12 +72,12 @@
     "image": "/events/stockify.png"
   },
   {
-    "id": "tweeters",
-    "title": "Tweeters",
+    "id": "tweetersbusinessdebate",
+    "title": "Tweeter Business Debate",
     "description": "Business Debate",
     "date": "0000-00-00",
     "time": "00:00",
     "category": "",
-    "image": "/events/tweeters.png"
+    "image": "/events/tweeterbusinessdebate.png"
   }
 ]
