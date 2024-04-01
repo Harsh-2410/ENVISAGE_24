@@ -40,6 +40,7 @@
 
 ## Authors
 
+
 - Aditya Seth - [@AdityaSeth777](https://www.github.com/AdityaSeth777)
 - Arghya Ghosh - [@uiuxarghya](https://www.github.com/uiuxarghya)
 - Subhadeep Roy - [@subhadeep3902](https://www.github.com/subhadeep3902)
@@ -48,7 +49,11 @@
 - Komal Agarwal - [@komal-agarwal5](https://www.github.com/komal-agarwal5)
 - Parna Ray Chowdhury - [@ParnaRoyChowdhury777](https://www.github.com/ParnaRoyChowdhury777)
 - Shrutika Jha - [@shrutika2603](https://www.github.com/shrutika2603)
+  
+  
 
+##Updates Made By
+-Kumar Aditya -[@kumarAditya18027](https://www.github.com/kumaraditya18027)
 ## License
 
 [MIT](LICENSE)
